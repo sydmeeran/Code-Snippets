@@ -1,2 +1,2 @@
-# Code-Snippets
-Will be adding useful code snippets
+# WordPress Code Snippets
+
